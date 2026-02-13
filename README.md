@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science Student | 🌐 Working Student (Software Development)
 
-[![Website](https://img.shields.io/badge/🌐_jbtastic.de-4285F4?style=for-the-badge)](https://jbtastic.de)
+[![Website](https://img.shields.io/badge/🌐_jbtastic.de-4285F4?style=for-the-badge)](https://www.jbtastic.de)
 [![Email](https://img.shields.io/badge/📧_Contact-EA4335?style=for-the-badge)](mailto:julian.tschurtschenthaler@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/JBTastic?style=for-the-badge&logo=github&label=Followers)](https://github.com/JBTastic)
 
